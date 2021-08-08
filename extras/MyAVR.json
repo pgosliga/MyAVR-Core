@@ -1,0 +1,35 @@
+{
+    "packages":
+    [
+      {
+        "name": "MyAVR",
+        "maintainer": "pgosliga",
+        "websiteURL": "https://github.com/pgosliga/MyAVR",
+        "email" : "",
+        "platforms":
+        [
+          {
+            "name": "MyAVR boards",
+            "architecture": "avr",
+            "version": "1.0.0",
+            "category": "Contributed",
+            "url": "https://github.com/pgosliga/MyAVR/archive/refs/heads/master.zip",
+            "archiveFileName": "MyAVR.tar.gz",
+            "checksum": "SHA-256:c860b1dfc215b698b6b8f080e710578379634dd6",
+            "size": "2381077",
+            "boards": [
+              {
+                "name": "MyAVR MK2"
+              }
+            ],
+            "toolsDependencies":
+            [
+            ]
+          }
+        ],
+        "tools":
+        [
+        ]
+      }
+    ]
+  }
