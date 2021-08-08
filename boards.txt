@@ -1,0 +1,25 @@
+MyAVR_MK2.name=myAVR Board MK2
+
+MyAVR_MK2.upload.protocol=avr910
+MyAVR_MK2.upload.maximum_size=7168
+MyAVR_MK2.upload.speed=19200
+MyAVR_MK2.upload.tool=avrdude
+
+MyAVR_MK2.bootloader.low_fuses=0xdf
+MyAVR_MK2.bootloader.high_fuses=0xca
+MyAVR_MK2.bootloader.path=atmega8
+MyAVR_MK2.bootloader.unlock_bits=0x3F
+MyAVR_MK2.bootloader.lock_bits=0x0F
+MyAVR_MK2.bootloader.tool=avrdude
+#MyAVR_MK2.bootloader.file=ATmegaBOOT.hex
+
+MyAVR_MK2.build.mcu=atmega8
+MyAVR_MK2.build.f_cpu=3686411L
+MyAVR_MK2.build.core=arduino
+#MyAVR_MK2.build.variant=standard
+#MyAVR_MK2.build.board=AVR_ATMEGA8
+
+MyAVR_MK2.build.usb_product="MyAVR MK2"
+MyAVR_MK2.build.usb_manufacturer="MyAVR"
+MyAVR_MK2.build.board=MyAVR
+MyAVR_MK2.build.variant=MyAVR

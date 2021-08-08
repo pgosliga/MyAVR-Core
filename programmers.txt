@@ -1,0 +1,6 @@
+avr911.name=mySmartUSB MK2
+avr911.communication=serial
+avr911.protocol=avr911
+avr911.program.protocol=avr911
+avr911.program.tool=avrdude
+avr911.program.extra_params=-P{serial.port}
