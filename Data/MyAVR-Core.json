@@ -1,0 +1,49 @@
+{
+    "packages":
+    [
+      {
+        "name": "MyAVR",
+        "maintainer": "pgosliga",
+        "websiteURL": "https://github.com/pgosliga/MyAVR",
+        "email" : "",
+        "platforms":
+        [
+          {
+            "name": "MyAVR boards",
+            "architecture": "avr",
+            "version": "0.0.2",
+            "category": "Contributed",
+            "url": "https://github.com/pgosliga/MyAVR-Core/archive/0.0.2.zip",
+            "archiveFileName": "MyAVR-Core-0.0.2.zip",
+            "checksum": "SHA-256:05e08e913423ecce3dec3e6805eedfef90ce06e9b7891743e2818a0226f17c7b",
+            "size": "1468",
+            "boards": [
+              {
+                "name": "MyAVR board MK2"
+              }
+            ]
+            "Programmers": [
+              {
+                "name": "MySmartUSB MK2"
+              }
+            ]
+          },
+          {
+            "name": "MyAVR boards",
+            "architecture": "avr",
+            "version": "0.0.1",
+            "category": "Contributed",
+            "url": "https://github.com/pgosliga/MyAVR-Core/archive/0.0.1.zip",
+            "archiveFileName": "MyAVR-Core-0.0.1.zip",
+            "checksum": "SHA-256:a146181c37e44b4e3cabd764b6e09ead5b7b59dacfe7ff4389f6fbb10cd144f4",
+            "size": "3767",
+            "boards": [
+              {
+                "name": "MyAVR board MK2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
