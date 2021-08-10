@@ -11,6 +11,21 @@
           {
             "name": "MyAVR boards",
             "architecture": "avr",
+            "version": "0.0.3",
+            "category": "Contributed",
+            "url": "https://github.com/pgosliga/MyAVR-Core/archive/0.0.3.zip",
+            "archiveFileName": "MyAVR-Core-0.0.3.zip",
+            "checksum": "SHA-256:9e9c473c1faed5d512f894228471e0d697c4ddfecbe3b05c67992a6fe9aed790",
+            "size": "5363",
+            "boards": [
+              {
+                "name": "MyAVR board MK2"
+              }
+            ]
+          },
+          {
+            "name": "MyAVR boards",
+            "architecture": "avr",
             "version": "0.0.2",
             "category": "Contributed",
             "url": "https://github.com/pgosliga/MyAVR-Core/archive/0.0.2.zip",
