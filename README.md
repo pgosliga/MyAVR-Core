@@ -11,3 +11,5 @@ currently these programmers are included:
 More information about the boards and programmers can be found at https://shop.myavr.com/
 
 to install the MyAVR-Core, add the json file to your additional boards manager url in the preferences of arduino
+https://pgosliga.github.io/MyAVR-Core/MyAVR-Core.json
+
