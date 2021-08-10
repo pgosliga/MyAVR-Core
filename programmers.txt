@@ -1,7 +1,7 @@
 ## MySmartUSB MK2 programmer ##
-MySmartUSB.name=mySmartUSB MK2
-MySmartUSB.communication=serial
-MySmartUSB.protocol=avr911
-MySmartUSB.program.protocol=avr911
-MySmartUSB.program.tool=avrdude
-MySmartUSB.program.extra_params=-P{serial.port}
+MySmartUSB_MK2.name=mySmartUSB MK2
+MySmartUSB_MK2.communication=serial
+MySmartUSB_MK2.protocol=avr911
+MySmartUSB_MK2.program.protocol=avr911
+MySmartUSB_MK2.program.tool=avrdude
+MySmartUSB_MK2.program.extra_params=-P{serial.port}

@@ -1,3 +1,4 @@
+########## MyAVR MK2 board ############
 MyAVR_MK2.name=myAVR Board MK2
 
 MyAVR_MK2.upload.protocol=avr910
