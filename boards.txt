@@ -16,11 +16,11 @@ MyAVR_MK2.bootloader.tool=avrdude
 
 MyAVR_MK2.build.mcu=atmega8
 MyAVR_MK2.build.f_cpu=3686411L
-MyAVR_MK2.build.core=arduino
-#MyAVR_MK2.build.variant=standard
-#MyAVR_MK2.build.board=AVR_ATMEGA8
+MyAVR_MK2.build.core=arduino:arduino
+MyAVR_MK2.build.variant=standard
+MyAVR_MK2.build.board=AVR_ATMEGA8
 
 MyAVR_MK2.build.usb_product="MyAVR MK2"
 MyAVR_MK2.build.usb_manufacturer="MyAVR"
-MyAVR_MK2.build.board=MyAVR
-MyAVR_MK2.build.variant=MyAVR
+#MyAVR_MK2.build.board=MyAVR
+#MyAVR_MK2.build.variant=MyAVR_MK2
