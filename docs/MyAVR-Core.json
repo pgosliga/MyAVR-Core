@@ -21,7 +21,7 @@
               {
                 "name": "MyAVR board MK2"
               }
-            ]
+            ],
             "Programmers": [
               {
                 "name": "MySmartUSB MK2"
