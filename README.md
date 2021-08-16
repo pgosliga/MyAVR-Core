@@ -23,9 +23,9 @@ https://pgosliga.github.io/MyAVR-Core/MyAVR-Core.json
 ![Image of MyAVR MK2](https://pgosliga.github.io/MyAVR-Core/images/MyAVR_Board-MK2-Top.png)
 
 #### pinout layout
-| Arduino |    0|    1|    2|    3|    4|    5|    6|    7|    8|    9|   10|   11|   12|   13|   A0|   A1|   A2|   A3|   A4|   A5|
-|:---:    |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|     AVR |   D0|   D1|   D2|   D3|   D4|   D5|   D6|   D7|   B0|   B1|   B2|   B3|   B4|   B5|   C0|   C1|   C2|   C3|   C4|   C5|
-|Function |  RXD|  TXD|     |  PWM|     |  PWM|  PWM|     |     |  PWM|  PWM|  PWM| MISO|  SCK|     |     |     |     |  SDA|  SCL|
+|  Arduino|    0|    1|    2|    3|    4|    5|    6|    7|    8|    9|   10|   11|   12|   13|   A0|   A1|   A2|   A3|   A4|   A5|
+|  ---:   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|MyAVR MK2|   D0|   D1|   D2|   D3|   D4|   D5|   D6|   D7|   B0|   B1|   B2|   B3|   B4|   B5|   C0|   C1|   C2|   C3|   C4|   C5|
+| Function|  RXD|  TXD|     |  PWM|     |  PWM|  PWM|     |     |  PWM|  PWM|  PWM| MISO|  SCK|     |     |     |     |  SDA|  SCL|
 
 
