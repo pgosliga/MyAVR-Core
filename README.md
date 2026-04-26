@@ -17,7 +17,6 @@ currently these programmers are included:
 | DIP 1 = ON        | DIP 1 = ON  | DIP 1 = N.A      |
 | DIP 2 = OFF       | DIP 2 = ON  | DIP 2 = N.A.     |
 | DIP 3 - OFF       | DIP 3 - OFF | DIP 3 - ON       |
-|  :---:            |:---:        |:---:             |
 | LED Red           | LED: 2 green| LED: OFF         |
 
 Set programming mode, to program. data mode to read/write serial.
