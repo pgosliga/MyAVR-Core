@@ -11,6 +11,18 @@ currently these boards are included:
 currently these programmers are included:
 - MySmartUSB MK2 (programmer and bridge)
 
+### MySmartUSB MK2:
+| Programming mode: | Data mode:  | Reset programmer |
+|  ---:             |:---:        |:---:             |
+| DIP 1 = ON        | DIP 1 = ON  | DIP 1 = N.A      |
+| DIP 2 = OFF       | DIP 2 = ON  | DIP 2 = N.A.     |
+| DIP 3 - OFF       | DIP 3 - OFF | DIP 3 - ON       |
+|  ---:             |:---:        |:---:             |
+| LED Red           | LED: 2 green| LED: OFF         |
+
+Set programming mode, to program. data mode to read/write serial.
+to go back from data mode to programming mode use the reset
+
 More information about the boards and programmers can be found at https://shop.myavr.com/
 
 ## Installation
@@ -29,3 +41,10 @@ https://pgosliga.github.io/MyAVR-Core/MyAVR-Core.json
 | Function|  RXD|  TXD|     |  PWM|     |  PWM|  PWM|     |     |  PWM|  PWM|  PWM| MISO|  SCK|     |     |     |     |  SDA|  SCL|
 
 
+#### pinout for myAVR LCD Add-On 2.5 with Arduino LyquidCrystal
+LiquidCrystal lcd(2,3,4,5,6,7);
+
+|  Arduino|    2|    3|    4|    5|    6|    7|
+|  ---:   |:---:|:---:|:---:|:---:|:---:|:---:|
+|MyAVR MK2|   D2|   D3|   D4|   D5|   D6|   D7|
+| Function|   RS|    E|   D4|   D5|   D6|   D7|
