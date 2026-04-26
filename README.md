@@ -31,7 +31,7 @@ https://pgosliga.github.io/MyAVR-Core/MyAVR-Core.json
 
 ## Boards
 ### MyAVR MK2 V2.10
-![Image of MyAVR MK2](https://github.com/pgosliga/MyAVR-Core/docs/pictures/MyAVR_Board-MK2-Top.png)
+![Image of MyAVR MK2](https://raw.githubusercontent.com/pgosliga/MyAVR-Core/refs/heads/master/docs/Pictures/MyAVR_Board-MK2-Top.png)
 
 #### pinout layout
 |  Arduino|    0|    1|    2|    3|    4|    5|    6|    7|    8|    9|   10|   11|   12|   13|   A0|   A1|   A2|   A3|   A4|   A5|
